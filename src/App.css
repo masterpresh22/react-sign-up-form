@@ -1,0 +1,15 @@
+.main-wrapper{
+  background-color: #fff;
+  padding: 20% 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sub-wrapper {
+  background-color: #fff;
+  padding: 5% 10%;
+  box-shadow: -3px 3px 25px 1px rgba(156,156,156,0.89);
+-webkit-box-shadow: -3px 3px 25px 1px rgba(156,156,156,0.89);
+-moz-box-shadow: -3px 3px 25px 1px rgba(156,156,156,0.89);
+}
+

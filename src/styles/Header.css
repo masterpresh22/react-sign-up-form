@@ -1,0 +1,28 @@
+/* .header-wrap {
+} */
+
+.header-text {
+    color: #e69d6e;
+    font-size: larger;
+    text-align: center;
+}
+
+.newsletter {
+    width: 100%;
+    text-align: center;
+    background-color: #f7eee8;
+   
+    padding: 20px 0;
+}
+
+.text-main {
+    color: black;
+    font-weight: bold;
+}
+
+.text-child {
+    color: black;
+    opacity: 0.5;
+    line-height: 10px;
+    font-size: small;
+}
